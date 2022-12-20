@@ -1,10 +1,10 @@
-50 Days of Code
+# 50 Days of Code
 
-In this time of 50 days from 24th of January, 2022 to 15 March, 2022
-I would be doing (5 problems / day)
-(50 days * 5 problem = 250 problems)
+### In this time of 50 days from 24th of January, 2022 to 15 March, 2022
+### I would be doing (5 problems / day)
+### (50 days * 5 problem = 250 problems)
 
-I would be completing exact 250 problems on Coding(in languages that I already know like Python, HTML, CSS and JavaScript).
+### I would be completing exact 250 problems on Coding(in languages that I already know like Python, HTML, CSS and JavaScript).
 
 24th January, 2022 | Day 1 completed | 5 problems completed
 25th January, 2022 | Day 2 completed | 10 problems completed
